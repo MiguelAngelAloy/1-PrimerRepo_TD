@@ -12,3 +12,5 @@ knitr::opts_chunk$set(echo = TRUE)
 Nombre: Miguel Ángel
 Apellidos: ALoy Poveda
 Fecha de nacimiento: 05/05/2006
+Usuario github: mianapo
+
