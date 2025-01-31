@@ -1,0 +1,12 @@
+---
+title: "mianapo"
+author: "M"
+date: "2025-01-31"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Nombre: Miguel Ángel
